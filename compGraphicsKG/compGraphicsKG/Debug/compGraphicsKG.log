@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\user\Desktop\Учеба\компграфика\Курсовая работа\compGraphicsKG\compGraphicsKG\main.cpp(9,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\Учеба\компграфика\Курсовая работа\compGraphicsKG\compGraphicsKG\main.cpp(12,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\Учеба\компграфика\Курсовая работа\compGraphicsKG\compGraphicsKG\main.cpp(15,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\Учеба\компграфика\Курсовая работа\compGraphicsKG\compGraphicsKG\main.cpp(16,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\Учеба\компграфика\Курсовая работа\compGraphicsKG\compGraphicsKG\main.cpp(21,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\Учеба\компграфика\Курсовая работа\compGraphicsKG\compGraphicsKG\main.cpp(28,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\Учеба\компграфика\Курсовая работа\compGraphicsKG\compGraphicsKG\main.cpp(33,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\Учеба\компграфика\Курсовая работа\compGraphicsKG\compGraphicsKG\main.cpp(44,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\Учеба\компграфика\Курсовая работа\compGraphicsKG\compGraphicsKG\main.cpp(50,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\Учеба\компграфика\Курсовая работа\compGraphicsKG\compGraphicsKG\main.cpp(56,23): warning C4018: <: несоответствие типов со знаком и без знака
+  compGraphicsKG.vcxproj -> C:\Users\user\Desktop\Учеба\компграфика\Курсовая работа\compGraphicsKG\Debug\compGraphicsKG.exe
